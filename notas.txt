@@ -1,0 +1,4 @@
+rodrigo,3,4,6,9
+felipe,4,6,6,8
+galleani,5,6,3,2
+gabriel,2,4,7,1
